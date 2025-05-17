@@ -26,17 +26,3 @@ MiniYoutube is a ReactJS app which fetches videos from youtube API, the user can
 3. npm start
 4. Go to localhost:8080/
 
-## Contribute
-
-We would love you for the contribution to **MiniYoutube-ReactJS**, check the ``LICENSE`` file for more info.
-
-## Meta
-
-Moaz Khan – moazkh60@gmail.com
-
-Distributed under the Opensource license. See ``LICENSE`` for more information.
-
-[https://github.com/moazkh60](https://github.com/moazkh60)
-
-[license-image]: https://img.shields.io/badge/License-GPL%20v3-blue.svg
-[license-url]: LICENSE
